@@ -12,3 +12,4 @@ Let's share the anime song that hit you hardest!
 - Golden Ray
 - Watch Me!
 - depature !
+- one last kiss
