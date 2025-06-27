@@ -2,6 +2,8 @@
 
 # please list your favorite camera brand here.
 - Canon
+- Canon
+- Canon
 - Sigma
 - Canon
 - GoPro
@@ -13,4 +15,3 @@
 - Apple(iPhone)
 - Canon
 - Sony
-
