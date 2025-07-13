@@ -15,3 +15,4 @@
 - Apple(iPhone)
 - Canon
 - Sony
+- canon
